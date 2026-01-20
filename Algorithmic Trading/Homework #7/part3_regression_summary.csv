@@ -1,0 +1,3 @@
+model,test_r2,test_mae,test_mse,train_time
+Random Forest,-0.495239,0.023767,0.000901,0.331766
+Linear Regression,-1.050941,0.026185,0.001036,0.001925
